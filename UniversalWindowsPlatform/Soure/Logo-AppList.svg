@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="176"
+   height="176"
+   viewBox="0 0 175.99999 175.99999"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.48.4 r9939"
+   sodipodi:docname="Logo-AppList.svg">
+  <defs
+     id="defs4" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.49497475"
+     inkscape:cx="-57.086382"
+     inkscape:cy="-291.53245"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     units="px"
+     showguides="true"
+     inkscape:guide-bbox="true"
+     inkscape:window-width="1680"
+     inkscape:window-height="987"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1">
+    <sodipodi:guide
+       position="21.999999,86.873114"
+       orientation="1,0"
+       id="guide3369"
+       inkscape:label=""
+       inkscape:color="rgb(0,0,255)" />
+    <sodipodi:guide
+       position="0,21.999999"
+       orientation="0,1"
+       id="guide3371"
+       inkscape:label=""
+       inkscape:color="rgb(0,0,255)" />
+    <sodipodi:guide
+       position="0,153.99999"
+       orientation="0,1"
+       id="guide3373"
+       inkscape:label=""
+       inkscape:color="rgb(0,0,255)" />
+    <sodipodi:guide
+       position="153.99999,0"
+       orientation="1,0"
+       id="guide3375"
+       inkscape:label=""
+       inkscape:color="rgb(0,0,255)" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="Guides"
+     style="display:inline"
+     sodipodi:insensitive="true">
+    <rect
+       transform="translate(0,-876.3623)"
+       style="fill:#1ba1e2;fill-opacity:1;display:inline"
+       id="rect5061"
+       width="132"
+       height="132"
+       x="22"
+       y="898.36224" />
+  </g>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-876.36225)"
+     style="display:inline">
+    <path
+       inkscape:connector-curvature="0"
+       id="path3384"
+       style="font-size:medium;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:sans-serif"
+       d="m 137.20825,962.0282 q 0,0.58349 0,1.16698 0.0649,0.58349 0.0649,1.16699 0,0.58352 -0.0649,1.16701 0,0.5835 0,1.16699 l 16.79173,10.4381 -10.30843,24.83103 -19.25541,-4.40866 q -1.55599,1.68569 -3.24165,3.24166 l 4.40865,19.2555 -24.83104,10.3084 -10.438116,-16.7919 q -0.583502,0 -1.166994,0.066 -0.583501,0 -1.167003,0 -0.583492,0 -1.166984,0 -0.583502,-0.066 -1.167004,-0.066 l -10.438104,16.7919 -24.831045,-10.3084 4.408645,-19.2555 q -1.685657,-1.55597 -3.241649,-3.24166 l -19.2554,4.40866 -10.308449,-24.83103 16.791748,-10.4381 q 0,-0.58349 -0.06482,-1.16699 0,-0.58349 0,-1.16701 0,-0.5835 0,-1.16699 0.06482,-0.58349 0.06482,-1.16698 l -16.791748,-10.43811 10.308449,-24.83103 19.2554,4.40863 q 1.555992,-1.68565 3.241649,-3.24164 l -4.408645,-19.25539 24.831045,-10.30844 10.438104,16.79176 q 0.583502,0 1.167004,0 0.583492,-0.0648 1.166984,-0.0648 0.583502,0 1.167003,0.0648 0.583492,0 1.166994,0 l 10.438116,-16.79176 24.83104,10.30844 -4.40865,19.25539 q 1.68566,1.55599 3.24165,3.24164 l 19.25541,-4.40863 10.30843,24.83103 -16.79173,10.43811 z m -7.58547,8.42827 q 0.12966,-1.55599 0.25935,-3.04714 0.12966,-1.55601 0.12966,-3.112 0,-1.49115 -0.12966,-3.04716 -0.12966,-1.55598 -0.25935,-3.0471 l 15.30059,-9.53047 -5.57564,-13.48527 -17.56973,4.08448 q -2.00983,-2.46366 -4.14933,-4.53831 -2.07464,-2.07465 -4.53831,-4.1493 l 4.08448,-17.56974 -13.48525,-5.57561 -9.595294,15.30056 q -1.491164,-0.12979 -3.047149,-0.25924 -1.555996,-0.1298 -3.04716,-0.1298 -1.555986,0 -3.111981,0.1298 -1.491154,0.12978 -3.04715,0.25924 l -9.530451,-15.30056 -13.485263,5.57561 4.084481,17.56974 q -2.463656,2.00983 -4.538312,4.1493 -2.074657,2.07465 -4.149313,4.53831 l -17.569744,-4.08448 -5.575636,13.48527 15.300588,9.59529 q -0.129659,1.556 -0.259349,3.11199 -0.129659,1.49116 -0.129659,3.04715 0,1.49113 0.129659,3.04711 0.129658,1.556 0.259349,3.04716 l -15.300588,9.53047 5.575636,13.48526 17.569744,-4.08449 q 2.009825,2.46367 4.08448,4.53833 2.139489,2.07465 4.603145,4.1493 l -4.084481,17.56963 13.485263,5.5757 9.595282,-15.3006 q 1.491165,0.1298 3.04716,0.2593 1.555985,0.1298 3.04714,0.1298 1.555995,0 3.04716,-0.1298 1.555985,-0.1299 3.11198,-0.2593 l 9.530463,15.3006 13.48525,-5.5757 -4.08448,-17.56963 q 2.46367,-2.00984 4.53831,-4.08449 2.07466,-2.13947 4.14933,-4.60314 l 17.56973,4.08449 5.57564,-13.48526 -15.30059,-9.5953 z m -41.622793,-30.4715 q 5.056976,0 9.465621,1.945 4.473482,1.88017 7.779962,5.18664 3.30648,3.3065 5.18665,7.77996 1.94499,4.40865 1.94499,9.4656 0,5.05698 -1.94499,9.53047 -1.88017,4.40862 -5.18665,7.71512 -3.30648,3.30646 -7.779962,5.25147 -4.408645,1.88012 -9.465621,1.88012 -5.056967,0 -9.530442,-1.88012 -4.408644,-1.94501 -7.715131,-5.25147 -3.306484,-3.3065 -5.251472,-7.71512 -1.880159,-4.47349 -1.880159,-9.53047 0,-5.05695 1.880159,-9.4656 1.944988,-4.47346 5.251472,-7.77996 3.306487,-3.30647 7.715131,-5.18664 4.473475,-1.945 9.530442,-1.945 z m 0,41.49311 q 3.565821,0 6.677801,-1.29665 3.111991,-1.36151 5.445982,-3.69548 2.33398,-2.33401 3.63064,-5.44598 1.3615,-3.11199 1.3615,-6.6778 0,-3.56578 -1.3615,-6.67777 -1.29666,-3.11198 -3.63064,-5.44598 -2.333991,-2.33397 -5.445982,-3.63065 -3.11198,-1.36151 -6.677801,-1.36151 -3.565812,0 -6.677792,1.36151 -3.11198,1.29668 -5.445978,3.63065 -2.333988,2.334 -3.695482,5.44598 -1.296656,3.11199 -1.296656,6.67777 0,3.56581 1.296656,6.6778 1.361494,3.11197 3.695482,5.44598 2.333998,2.33397 5.445978,3.69548 3.11198,1.29665 6.677792,1.29665 z" />
+    <text
+       xml:space="preserve"
+       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:sans-serif"
+       x="-122.22846"
+       y="1071.5552"
+       id="text4925"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4927"
+         x="-122.22846"
+         y="1071.5552" /></text>
+    <text
+       xml:space="preserve"
+       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:sans-serif"
+       x="-451.35861"
+       y="1118.7363"
+       id="text4929"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4931"
+         x="-451.35861"
+         y="1118.7363">This document is used to create icons for the start menu/app list.</tspan><tspan
+         sodipodi:role="line"
+         x="-451.35861"
+         y="1168.7363"
+         id="tspan4933" /><tspan
+         sodipodi:role="line"
+         x="-451.35861"
+         y="1218.7363"
+         id="tspan2996">Files that are generated:</tspan><tspan
+         sodipodi:role="line"
+         x="-451.35861"
+         y="1268.7363"
+         id="tspan3006" /><tspan
+         sodipodi:role="line"
+         x="-451.35861"
+         y="1318.7363"
+         id="tspan4935">Square44x44Logo.scale-100.png</tspan><tspan
+         sodipodi:role="line"
+         x="-451.35861"
+         y="1368.7363"
+         id="tspan2998">Square44x44Logo.scale-125.png</tspan><tspan
+         sodipodi:role="line"
+         x="-451.35861"
+         y="1418.7363"
+         id="tspan3000">Square44x44Logo.scale-150.png</tspan><tspan
+         sodipodi:role="line"
+         x="-451.35861"
+         y="1468.7363"
+         id="tspan3002">Square44x44Logo.scale-200.png</tspan><tspan
+         sodipodi:role="line"
+         x="-451.35861"
+         y="1518.7363"
+         id="tspan3004">Square44x44Logo.scale-400.png</tspan><tspan
+         sodipodi:role="line"
+         x="-451.35861"
+         y="1568.7363"
+         id="tspan4937" /></text>
+  </g>
+</svg>

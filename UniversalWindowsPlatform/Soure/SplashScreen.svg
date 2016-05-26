@@ -1,0 +1,197 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="2480"
+   height="1200"
+   viewBox="0 0 2479.9998 1199.9999"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.48.4 r9939"
+   sodipodi:docname="SplashScreen.svg">
+  <defs
+     id="defs4" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.70000002"
+     inkscape:cx="776.44485"
+     inkscape:cy="-579.56393"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     units="px"
+     showguides="true"
+     inkscape:guide-bbox="true"
+     inkscape:window-width="1680"
+     inkscape:window-height="987"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1">
+    <sodipodi:guide
+       position="1039.9999,0"
+       orientation="1,0"
+       id="guide3369"
+       inkscape:label=""
+       inkscape:color="rgb(0,0,255)" />
+    <sodipodi:guide
+       position="0,799.99993"
+       orientation="0,1"
+       id="guide3373"
+       inkscape:label=""
+       inkscape:color="rgb(0,0,255)" />
+    <sodipodi:guide
+       position="1239.9999,0"
+       orientation="1,0"
+       id="guide3402"
+       inkscape:label=""
+       inkscape:color="rgb(0,0,255)" />
+    <sodipodi:guide
+       position="1439.9999,0"
+       orientation="1,0"
+       id="guide3404"
+       inkscape:label=""
+       inkscape:color="rgb(0,0,255)" />
+    <sodipodi:guide
+       position="10329.999,0"
+       orientation="1,0"
+       id="guide3406"
+       inkscape:label=""
+       inkscape:color="rgb(0,0,255)" />
+    <sodipodi:guide
+       position="0,599.99995"
+       orientation="0,1"
+       id="guide3410"
+       inkscape:label=""
+       inkscape:color="rgb(0,0,255)" />
+    <sodipodi:guide
+       position="0,399.99997"
+       orientation="0,1"
+       id="guide3412"
+       inkscape:label=""
+       inkscape:color="rgb(0,0,255)" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="Guides"
+     sodipodi:insensitive="true"
+     style="display:inline">
+    <path
+       transform="translate(0,147.63764)"
+       id="rect4845"
+       style="fill:#1ba1e2;fill-opacity:1"
+       d="m 1040,-147.63754 400,0 0,1199.99984 -400,0 z M 0,252.36237 l 2479.9998,0 0,400 -2479.9998,0 z"
+       inkscape:connector-curvature="0" />
+  </g>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,147.63763)"
+     style="display:inline">
+    <path
+       inkscape:connector-curvature="0"
+       id="path3384"
+       style="font-size:medium;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:sans-serif"
+       d="m 1389.1158,445.28957 q 0,1.76818 0,3.53632 0.1968,1.76814 0.1968,3.53634 0,1.76822 -0.1968,3.53636 0,1.76822 0,3.53638 l 50.884,31.6306 -31.2377,75.24548 -58.3497,-13.35952 q -4.7151,5.1082 -9.8232,9.82314 l 13.3596,58.35 -75.2456,31.2376 -31.6306,-50.88456 q -1.7682,0 -3.5364,0.2 -1.7682,0 -3.5363,0 -1.7682,0 -3.5363,0 -1.7683,-0.2 -3.5365,-0.2 l -31.6305,50.88456 -75.2457,-31.2376 13.3596,-58.35 q -5.1081,-4.71494 -9.8232,-9.82314 l -58.3497,13.35952 -31.2377,-75.24548 50.8841,-31.6306 q 0,-1.76816 -0.1964,-3.53638 0,-1.76814 0,-3.53636 0,-1.7682 0,-3.53634 0.1964,-1.76814 0.1964,-3.53632 l -50.8841,-31.63062 31.2377,-75.24557 58.3497,13.3595 q 4.7151,-5.10802 9.8232,-9.82316 l -13.3596,-58.3497 75.2457,-31.2377 31.6305,50.88414 q 1.7682,0 3.5365,0 1.7681,-0.1964 3.5363,-0.1964 1.7681,0 3.5363,0.1964 1.7682,0 3.5364,0 l 31.6306,-50.88414 75.2456,31.2377 -13.3596,58.3497 q 5.1081,4.71514 9.8232,9.82316 l 58.3497,-13.3595 31.2377,75.24557 -50.884,31.63062 z m -22.9863,25.54024 q 0.3929,-4.7151 0.7859,-9.23376 0.3929,-4.71518 0.3929,-9.4303 0,-4.51866 -0.3929,-9.23382 -0.3929,-4.71508 -0.7859,-9.23366 l 46.3654,-28.88022 -16.8958,-40.86443 -53.2417,12.3772 q -6.0903,-7.46564 -12.5737,-13.75246 -6.2868,-6.28684 -13.7525,-12.57362 l 12.3773,-53.24168 -40.8644,-16.8958 -29.0767,46.36538 q -4.5186,-0.39332 -9.2337,-0.78558 -4.7152,-0.39334 -9.2338,-0.39334 -4.7152,0 -9.4303,0.39334 -4.5186,0.39326 -9.2338,0.78558 l -28.8801,-46.36538 -40.8645,16.8958 12.3772,53.24168 q -7.4656,6.09036 -13.7524,12.57362 -6.2869,6.28682 -12.5737,13.75246 l -53.2416,-12.3772 -16.8959,40.86443 46.3654,29.07666 q -0.3929,4.71516 -0.7859,9.43028 -0.3929,4.51868 -0.3929,9.2338 0,4.51856 0.3929,9.23364 0.3929,4.71514 0.7859,9.23382 l -46.3654,28.88022 16.8959,40.86446 53.2416,-12.37728 q 6.0904,7.46568 12.3772,13.75254 6.4833,6.28682 13.9489,12.57364 l -12.3772,53.24122 40.8645,16.89612 29.0766,-46.36552 q 4.5187,0.39336 9.2338,0.78574 4.7151,0.39336 9.2338,0.39336 4.7151,0 9.2338,-0.39336 4.7151,-0.3936 9.4302,-0.78574 l 28.8802,46.36552 40.8644,-16.89612 -12.3773,-53.24122 q 7.4657,-6.09044 13.7525,-12.37726 6.2868,-6.48324 12.5737,-13.94892 l 53.2417,12.37728 16.8958,-40.86446 -46.3654,-29.07666 z m -126.1296,-92.33789 q 15.3241,0 28.6836,5.89394 13.5561,5.69746 23.5757,15.71707 10.0196,10.01972 15.7171,23.57566 5.8939,13.35954 5.8939,28.68364 0,15.32416 -5.8939,28.8802 -5.6975,13.35948 -15.7171,23.37914 -10.0196,10.0196 -23.5757,15.91358 -13.3595,5.69732 -28.6836,5.69732 -15.3242,0 -28.8802,-5.69732 -13.3595,-5.89398 -23.3791,-15.91358 -10.0197,-10.01966 -15.9136,-23.37914 -5.6974,-13.55604 -5.6974,-28.8802 0,-15.3241 5.6974,-28.68364 5.8939,-13.55594 15.9136,-23.57566 10.0196,-10.01961 23.3791,-15.71707 13.556,-5.89394 28.8802,-5.89394 z m 0,125.73669 q 10.8054,0 20.2357,-3.92922 9.4303,-4.1258 16.503,-11.19842 7.0726,-7.07278 11.0019,-16.50298 4.1258,-9.43024 4.1258,-20.23576 0,-10.80538 -4.1258,-20.2357 -3.9293,-9.43024 -11.0019,-16.50298 -7.0727,-7.07262 -16.503,-11.00192 -9.4303,-4.1258 -20.2357,-4.1258 -10.8056,0 -20.2358,4.1258 -9.4302,3.9293 -16.503,11.00192 -7.0727,7.07274 -11.1984,16.50298 -3.9293,9.43032 -3.9293,20.2357 0,10.80552 3.9293,20.23576 4.1257,9.4302 11.1984,16.50298 7.0728,7.07262 16.503,11.19842 9.4302,3.92922 20.2358,3.92922 z" />
+    <text
+       xml:space="preserve"
+       style="font-size:39.99999619px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:sans-serif"
+       x="725.60022"
+       y="1224.3484"
+       id="text4929"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4931"
+         x="725.60022"
+         y="1224.3484">This document is used to create the splash screen.</tspan><tspan
+         sodipodi:role="line"
+         x="725.60022"
+         y="1274.3484"
+         id="tspan3003">Note! In many cases you can use Logo-TileWide.svg</tspan><tspan
+         sodipodi:role="line"
+         x="725.60022"
+         y="1324.3484"
+         id="tspan3005">instead of this document in IconAndTileGenerator.ibp</tspan><tspan
+         sodipodi:role="line"
+         x="725.60022"
+         y="1374.3484"
+         id="tspan3007">They have the same proportions.</tspan><tspan
+         sodipodi:role="line"
+         x="725.60022"
+         y="1424.3484"
+         id="tspan4933" /><tspan
+         sodipodi:role="line"
+         x="725.60022"
+         y="1474.3484"
+         id="tspan2996">Files that are generated:</tspan><tspan
+         sodipodi:role="line"
+         x="725.60022"
+         y="1524.3484"
+         id="tspan3006" /><tspan
+         sodipodi:role="line"
+         x="725.60022"
+         y="1574.3484"
+         id="tspan4937">SplashScreen.scale-100.png</tspan><tspan
+         sodipodi:role="line"
+         x="725.60022"
+         y="1624.3484"
+         id="tspan3721">SplashScreen.scale-125.png</tspan><tspan
+         sodipodi:role="line"
+         x="725.60022"
+         y="1674.3484"
+         id="tspan3723">SplashScreen.scale-150.png</tspan><tspan
+         sodipodi:role="line"
+         x="725.60022"
+         y="1724.3484"
+         id="tspan3725">SplashScreen.scale-200.png</tspan><tspan
+         sodipodi:role="line"
+         x="725.60022"
+         y="1774.3484"
+         id="tspan3727">SplashScreen.scale-400.png</tspan><tspan
+         sodipodi:role="line"
+         x="725.60022"
+         y="1824.3484"
+         id="tspan3729" /></text>
+    <g
+       id="g3013"
+       transform="translate(1320.6951,1361.2559)">
+      <text
+         id="text3015"
+         style="font-size:13.80000019px;font-style:normal;font-weight:normal;text-align:start;text-anchor:start;fill:#000000;font-family:Calibri"
+         y="12.92227"
+         x="0"
+         xml:space="preserve">proportions</text>
+      <text
+         id="text3017"
+         style="font-size:13.80000019px;font-style:normal;font-weight:normal;text-align:start;text-anchor:start;fill:#000000;font-family:Calibri"
+         y="12.92227"
+         x="66.150002"
+         xml:space="preserve"> </text>
+    </g>
+  </g>
+</svg>

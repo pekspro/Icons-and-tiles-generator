@@ -1,0 +1,311 @@
+
+PathClear true
+FileFormat png
+FilePrefix
+ExportBackground
+
+// Convert
+PathExport '.\Assets'
+
+ExportArea canvas
+
+
+
+
+// Used for icons for the start menu/app list.
+FileSvg '.\Logo-AppList.svg'
+
+// Replace black color with white color
+Replace fill:#000000;fill-opacity:1; fill:#FFFFFF;fill-opacity:1;
+
+// Make guides transparent
+Replace fill:#1ba1e2;fill-opacity:1 fill:#FFFFFF;fill-opacity:0
+
+
+FileName 'Square44x44Logo.scale-100'
+ExportWidth 44
+ExportHeight 44
+Convert
+
+FileName 'Square44x44Logo.scale-125'
+ExportWidth 55
+ExportHeight 55
+Convert
+
+FileName 'Square44x44Logo.scale-150'
+ExportWidth 66
+ExportHeight 66
+Convert
+
+FileName 'Square44x44Logo.scale-200'
+ExportWidth 88
+ExportHeight 88
+Convert
+
+FileName 'Square44x44Logo.scale-400'
+ExportWidth 176
+ExportHeight 176
+Convert
+
+
+
+
+// Used for icons for the task bar. By default the icons are “unplated”. 
+// Remove altform-unplated if you don't want this.
+// Read more about plated and unplated icons here:
+//  https://msdn.microsoft.com/en-us/windows/uwp/controls-and-patterns/tiles-and-notifications-app-assets#Target-based_assets 
+FileSvg '.\Logo-NoMargins.svg'
+
+// Replace black color with white color
+Replace fill:#000000;fill-opacity:1; fill:#FFFFFF;fill-opacity:1;
+
+// Make guides transparent
+Replace fill:#1ba1e2;fill-opacity:1 fill:#FFFFFF;fill-opacity:0
+
+
+FileName 'Square44x44Logo.targetsize-16_altform-unplated'
+ExportWidth 16
+ExportHeight 16
+Convert
+
+FileName 'Square44x44Logo.targetsize-24_altform-unplated'
+ExportWidth 24
+ExportHeight 24
+Convert
+
+FileName 'Square44x44Logo.targetsize-48_altform-unplated'
+ExportWidth 48
+ExportHeight 48
+Convert
+
+FileName 'Square44x44Logo.targetsize-256_altform-unplated'
+ExportWidth 256
+ExportHeight 256
+Convert
+
+
+
+
+
+// Used for icons for medium and large tiles.
+FileSvg '.\Logo-TileLargeMedium.svg'
+
+// Replace black color with white color
+Replace fill:#000000;fill-opacity:1; fill:#FFFFFF;fill-opacity:1;
+
+// Make guides transparent
+Replace fill:#1ba1e2;fill-opacity:1 fill:#FFFFFF;fill-opacity:0
+
+
+
+FileName 'Square150x150Logo.scale-100'
+ExportWidth 150
+ExportHeight 150
+Convert
+
+FileName 'Square150x150Logo.scale-125'
+ExportWidth 188
+ExportHeight 188
+Convert
+
+FileName 'Square150x150Logo.scale-150'
+ExportWidth 225
+ExportHeight 225
+Convert
+
+FileName 'Square150x150Logo.scale-200'
+ExportWidth 300
+ExportHeight 300
+Convert
+
+FileName 'Square150x150Logo.scale-400'
+ExportWidth 600
+ExportHeight 600
+Convert
+
+
+
+FileName 'Square310x310Logo.scale-100'
+ExportWidth 310
+ExportHeight 310
+Convert
+
+FileName 'Square310x310Logo.scale-125'
+ExportWidth 388
+ExportHeight 388
+Convert
+
+FileName 'Square310x310Logo.scale-150'
+ExportWidth 465
+ExportHeight 465
+Convert
+
+FileName 'Square310x310Logo.scale-200'
+ExportWidth 620
+ExportHeight 620
+Convert
+
+FileName 'Square310x310Logo.scale-400'
+ExportWidth 1240
+ExportHeight 1240
+Convert
+
+
+
+
+
+// Used for icons for small tiles.
+FileSvg '.\Logo-TileSmall.svg'
+
+// Replace black color with white color
+Replace fill:#000000;fill-opacity:1; fill:#FFFFFF;fill-opacity:1;
+
+// Make guides transparent
+Replace fill:#1ba1e2;fill-opacity:1 fill:#FFFFFF;fill-opacity:0
+
+
+
+FileName 'Square71x71Logo.scale-100'
+ExportWidth 71
+ExportHeight 71
+Convert
+
+FileName 'Square71x71Logo.scale-125'
+ExportWidth 89
+ExportHeight 89
+Convert
+
+FileName 'Square71x71Logo.scale-150'
+ExportWidth 107
+ExportHeight 107
+Convert
+
+FileName 'Square71x71Logo.scale-200'
+ExportWidth 142
+ExportHeight 142
+Convert
+
+FileName 'Square71x71Logo.scale-400'
+ExportWidth 284
+ExportHeight 284
+Convert
+
+
+
+
+
+// Used for icons for wide tiles.
+FileSvg '.\Logo-TileWide.svg'
+
+// Replace black color with white color
+Replace fill:#000000;fill-opacity:1; fill:#FFFFFF;fill-opacity:1;
+
+// Make guides transparent
+Replace fill:#1ba1e2;fill-opacity:1 fill:#FFFFFF;fill-opacity:0
+
+
+
+FileName 'Wide310x150Logo.scale-100'
+ExportWidth 310
+ExportHeight 150
+Convert
+
+FileName 'Wide310x150Logo.scale-125'
+ExportWidth 388
+ExportHeight 188
+Convert
+
+FileName 'Wide310x150Logo.scale-150'
+ExportWidth 465
+ExportHeight 225
+Convert
+
+FileName 'Wide310x150Logo.scale-200'
+ExportWidth 620
+ExportHeight 300
+Convert
+
+FileName 'Wide310x150Logo.scale-400'
+ExportWidth 1240
+ExportHeight 600
+Convert
+
+
+
+// Used for splash screen.
+FileSvg '.\SplashScreen.svg'
+// Note! In many cases you can reuse Logo-TileWide.svg for the splash screen.
+
+// Replace black color with white color
+Replace fill:#000000;fill-opacity:1; fill:#FFFFFF;fill-opacity:1;
+
+// Make guides transparent
+Replace fill:#1ba1e2;fill-opacity:1 fill:#FFFFFF;fill-opacity:0
+
+
+FileName 'SplashScreen.scale-100'
+ExportWidth 620
+ExportHeight 300
+Convert
+
+FileName 'SplashScreen.scale-125'
+ExportWidth 775
+ExportHeight 375
+Convert
+
+FileName 'SplashScreen.scale-150'
+ExportWidth 930
+ExportHeight 450
+Convert
+
+FileName 'SplashScreen.scale-200'
+ExportWidth 1240
+ExportHeight 600
+Convert
+
+FileName 'SplashScreen.scale-400'
+ExportWidth 2480
+ExportHeight 1200
+Convert
+
+
+
+
+
+// Used for icons in the Windows Store.
+FileSvg '.\StoreLogo.svg'
+
+// Replace black color with white color
+Replace fill:#000000;fill-opacity:1; fill:#FFFFFF;fill-opacity:1;
+
+// Make guides transparent
+Replace fill:#1ba1e2;fill-opacity:1 fill:#FFFFFF;fill-opacity:0
+
+
+
+FileName 'StoreLogo.scale-100'
+ExportWidth 50
+ExportHeight 50
+Convert
+
+FileName 'StoreLogo.scale-125'
+ExportWidth 63
+ExportHeight 63
+Convert
+
+FileName 'StoreLogo.scale-150'
+ExportWidth 75
+ExportHeight 75
+Convert
+
+FileName 'StoreLogo.scale-200'
+ExportWidth 100
+ExportHeight 100
+Convert
+
+FileName 'StoreLogo.scale-400'
+ExportWidth 200
+ExportHeight 200
+Convert
+
+
