@@ -11,7 +11,7 @@ To use this, you need:
 To generate bitmaps, you should in short do the following:
 
 *	Edit the SVG-files.
-*	Open the script in Inscape batch GUI and Press Start batch converter in Inkscape batch and wait a few seconds.
+*	Open the script in Inkscape batch GUI and Press Start batch converter in Inkscape batch and wait a few seconds.
 *	Copy the bitmaps to your project.
 
 There is some extra documentation for each platform. Read this! :-)
