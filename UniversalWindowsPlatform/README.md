@@ -18,14 +18,14 @@ The seven SVG-files are used like this:
 *	**StoreLogo** - Used for icons in the Windows Store.
 
 
-Open `IconAndTileGenerator.ibp` in Inkscape batch. This is a basic script file and if you are lucky you don’t need to change anything. But there are a few things to be aware of:
+Open [IconAndTileGenerator.ibp] (Source/IconAndTileGenerator.ibp) in Inkscape batch. This is a basic script file and if you are lucky you donâ€™t need to change anything. But there are a few things to be aware of:
 
-* The script by default replaces black with white. If you don’t want this remove lines like this: `Replace fill:#000000;fill-opacity:1; fill:#FFFFFF;fill-opacity:1;`
+* The script by default replaces black with white. If you donâ€™t want this remove lines like this: `Replace fill:#000000;fill-opacity:1; fill:#FFFFFF;fill-opacity:1;`
 * The script by default makes the guides transparent (the blue rectangles). This is done by making them transparent. If you have problems with this remove lines like this: `Replace fill:#1ba1e2;fill-opacity:1 fill:#FFFFFF;fill-opacity:0`
 * The script generates some files with the suffix altform-unplated by default. Read more about plated and unplated icons in the [guide lines] (https://msdn.microsoft.com/en-us/windows/uwp/controls-and-patterns/tiles-and-notifications-app-assets#Target-based_assets).
-* In many cases **Logo-TileWide** and **SplashScreen** will have the same image but with a different scaling. If that’s the case, you can remove one of these file and change in `IconAndTileGenerator.ibp` to use the file you kept. 
+* In many cases **Logo-TileWide** and **SplashScreen** will have the same image but with a different scaling. If thatâ€™s the case, you can remove one of these file and change in `IconAndTileGenerator.ibp` to use the file you kept. 
 
-Press Start batch converter in Inkscape batch and wait a few seconds. Put the generated bitmaps in the assets folder of you project and you’re done. You may need to open `Package.appxmanifest` to ensure that all images are used.
+Press Start batch converter in Inkscape batch and wait a few seconds. Put the generated bitmaps in the assets folder of you project and youâ€™re done. You may need to open `Package.appxmanifest` to ensure that all images are used.
 
 
 ## References
