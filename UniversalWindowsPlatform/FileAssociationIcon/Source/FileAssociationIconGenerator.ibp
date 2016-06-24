@@ -1,0 +1,66 @@
+
+PathClear true
+FileFormat png
+FilePrefix
+ExportBackground
+
+// Convert
+PathExport '.\FileAssociationIcon'
+ExportArea canvas
+
+// Used on desktop
+FileSvg '.\FileAssociationIcon16x16.svg'
+FileName 'FileAssociation.targetsize-16'
+ExportWidth 16
+ExportHeight 16
+Convert
+
+
+// Used on desktop
+FileSvg '.\FileAssociationIcon32x32.svg'
+FileName 'FileAssociation.targetsize-32'
+ExportWidth 32
+ExportHeight 32
+Convert
+
+
+// Used on desktop
+FileSvg '.\FileAssociationIcon48x48.svg'
+FileName 'FileAssociation.targetsize-48'
+ExportWidth 48
+ExportHeight 48
+Convert
+
+
+// Used on desktop
+FileSvg '.\FileAssociationIcon256x256.svg'
+FileName 'FileAssociation.targetsize-256'
+ExportWidth 256
+ExportHeight 256
+Convert
+
+
+// Used on phone
+FileSvg '.\FileAssociationIcon63x63.svg'
+FileName 'FileAssociation.targetsize-63'
+ExportWidth 63
+ExportHeight 63
+Convert
+
+
+// Used on phone
+FileSvg '.\FileAssociationIcon129x129.svg'
+FileName 'FileAssociation.targetsize-129'
+ExportWidth 129
+ExportHeight 129
+Convert
+
+
+// Used on phone
+FileSvg '.\FileAssociationIcon336x336.svg'
+FileName 'FileAssociation.targetsize-336'
+ExportWidth 336
+ExportHeight 336
+Convert
+
+
