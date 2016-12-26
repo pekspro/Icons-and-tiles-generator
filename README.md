@@ -4,7 +4,7 @@ The input is well documented SVG-files made in Inkscape and with a script (also 
 To use this, you need:
 
 *	[Inkscape] (https://inkscape.org/en/)
-*	[Inkscape batch GUI] (http://inkscapebatch.org/)
+*	[Inkscape batch GUI] (http://www.softpedia.com/get/Multimedia/Graphic/Graphic-Others/InkscapeBatch.shtml). Linked to Softpedia. Previously this was available on [http://inkscapebatch.org/] (http://inkscapebatch.org/) but now the link is broken.
 
 
 ## How to use it
